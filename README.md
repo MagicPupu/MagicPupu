@@ -33,19 +33,13 @@
 
 ## 🟣 About Me
 
-```python
-class AntoinePulon:
-    def __init__(self):
-        self.role = "Software Engineer — Full Stack / Cloud / AI / Cybersecurity"
-        self.based_in = "Bordeaux, France"
-        self.current = "Services, Solutions & Applications Lifecycle Manager @ ArianeGroup"
-        self.building = "Drinki — B2B2C mobile app (React Native, GCP, 3,000+ users)"
-        self.focus = ["Distributed Systems", "LLM Agents & Function Calling", "DevSecOps", "Cloud Architecture"]
-        self.mobility = "Fully open to international relocation (APAC / VIE)"
+<div align="center">
 
-    def philosophy(self):
-        return "Ship production-grade systems, secure them by design, and automate everything twice."
-```
+`🏢 Current: Services, Solutions & Applications Lifecycle Manager @ ArianeGroup`
+`🚀 Building: Drinki — B2B2C mobile app (React Native, GCP, 3,000+ users)`
+`🌏 Mobility: Fully open to international relocation (APAC / VIE)`
+
+</div>
 
 I'm a Computer Science Engineer specializing in **full stack development, cloud infrastructure, applied AI, and cybersecurity**. I operate at the intersection of shipping product and hardening systems — from building a mobile app used by thousands of users to designing LLM-driven agents that automate enterprise workflows in production, to running phishing simulations and Linux security audits.
 
@@ -348,39 +342,14 @@ Issued April – June 2025 · The Linux Foundation
 
 ---
 
-## 🟣 Coding Profiles
-
-<div align="center">
-
-> ⚠️ Replace the placeholder handles below with your real usernames on each platform before publishing.
-
-<a href="https://leetcode.com/REPLACE_ME"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=2C0854" /></a>
-<a href="https://www.geeksforgeeks.org/user/REPLACE_ME"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=2C0854" /></a>
-<a href="https://www.hackerrank.com/REPLACE_ME"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2C0854" /></a>
-<a href="https://www.codechef.com/users/REPLACE_ME"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=2C0854" /></a>
-
-</div>
-
----
-
 ## 🟣 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MagicPupu&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MagicPupu&theme=radical&hide_border=true&background=0D0221&stroke=A78BFA&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=MagicPupu&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" />
+<img height="165" src="./profile/streak.svg" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagicPupu&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=C4B5FD" />
-
-</div>
-
----
-
-## 🟣 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=MagicPupu&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=7)
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MagicPupu&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=C4B5FD" />
 
 </div>
 
@@ -408,24 +377,12 @@ Issued April – June 2025 · The Linux Foundation
 
 ## 🟣 Current Focus
 
-```yaml
-current_focus:
-  learning:
-    - Japanese (active language acquisition)
-    - Advanced LLM agent orchestration patterns
-    - Rust fundamentals
-  building:
-    - Drinki (scaling B2B2C mobile platform)
-    - Systematic algorithmic trading bot suite
-    - Enterprise LLM provisioning agent enhancements
-  exploring:
-    - APAC fintech & quant engineering roles
-    - DevSecOps at scale in regulated environments
-  open_to:
-    - VIE positions (Singapore, Hong Kong, Japan, Australia, SE Asia)
-    - Direct hire roles in Bangkok, Thailand
-    - Technical, product, and engineering-management tracks
-```
+| | |
+|---|---|
+| 📚 **Learning** | Japanese · Advanced LLM agent orchestration patterns · Rust fundamentals |
+| 🛠️ **Building** | Drinki (scaling B2B2C mobile platform) · Systematic algorithmic trading bot suite · Enterprise LLM provisioning agent enhancements |
+| 🔍 **Exploring** | APAC fintech & quant engineering roles · DevSecOps at scale in regulated environments |
+| 🌏 **Open to** | VIE positions (Singapore, Hong Kong, Japan, Australia, SE Asia) · Direct hire roles in Bangkok, Thailand · Technical, product, and engineering-management tracks |
 
 ---
 
