@@ -36,18 +36,18 @@
 <div align="center">
 
 `🏢 Current: Services, Solutions & Applications Lifecycle Manager @ ArianeGroup`
-`🚀 Building: Drinki — B2B2C mobile app (React Native, GCP, 3,000+ users)`
-`🌏 Mobility: Fully open to international relocation (APAC / VIE)`
+`🚀 Building: Drinki, B2B2C mobile app (React Native, GCP, 3,000+ users)`
+`🌏 Mobility: Open to relocation across Asia (Singapore, Bangkok, and other major hubs)`
 
 </div>
 
-I'm a Computer Science Engineer specializing in **full stack development, cloud infrastructure, applied AI, and cybersecurity**. I operate at the intersection of shipping product and hardening systems — from building a mobile app used by thousands of users to designing LLM-driven agents that automate enterprise workflows in production, to running phishing simulations and Linux security audits.
+I'm a Computer Science Engineer specializing in **full stack development, cloud infrastructure, applied AI, and cybersecurity**. I operate at the intersection of shipping product and hardening systems: from building a mobile app used by thousands of users to designing LLM-driven agents that automate enterprise workflows in production, to running phishing simulations and Linux security audits.
 
-My engineering mindset is grounded in **product ownership**: at ArianeGroup I don't just maintain infrastructure — I designed and shipped a conversational AI agent using LLM function calling to orchestrate two internal enterprise tools end-to-end. At Drinki, I co-founded and lead a 3-person engineering team shipping a live, revenue-generating mobile product on GCP.
+My engineering mindset is grounded in **product ownership**: at ArianeGroup I don't just maintain infrastructure, I designed and shipped a conversational AI agent using LLM function calling to orchestrate two internal enterprise tools end-to-end. At Drinki, I co-founded and lead a 3-person engineering team shipping a live, revenue-generating mobile product on GCP.
 
 **Open to:**
-- 🌏 International first roles (VIE — Singapore, Hong Kong, Japan, Australia, SE Asia)
-- 🇹🇭 Direct hire opportunities in Bangkok (fintech/quant, data engineering, full stack)
+- 🌏 International first roles across Asia (VIE: Singapore, Bangkok, Hong Kong, Tokyo, Sydney)
+- 🇸🇬🇹🇭 Direct hire opportunities in major Asian hubs: Singapore, Bangkok, and beyond (fintech/quant, data engineering, full stack)
 - 🤝 Roles blending software engineering, AI/ML, and cybersecurity
 - 💬 Conversations on distributed systems, LLM agents, and DevSecOps
 
@@ -87,7 +87,7 @@ My engineering mindset is grounded in **product ownership**: at ArianeGroup I do
 |---|:---:|---|
 | **LLM Agents & Function Calling** | ⭐⭐⭐⭐⭐ | Designed a production LLM agent orchestrating two internal enterprise tools via natural-language provisioning and intelligent request validation |
 | **RAG & Data Pipelines** | ⭐⭐⭐⭐ | Built a stateless integration pipeline with Kedro + LlamaIndex; automated structure extraction from medical CSVs via TableLLM |
-| **Computer Vision** | ⭐⭐⭐⭐ | Built a CV pipeline (TensorFlow, PyTorch) at the AI4Industry hackathon — ranked 3rd/26 |
+| **Computer Vision** | ⭐⭐⭐⭐ | Built a CV pipeline (TensorFlow, PyTorch) at the AI4Industry hackathon (ranked 3rd/26) |
 | **Data Compliance (GDPR/CNIL)** | ⭐⭐⭐⭐ | Ensured sensitive health data processing met GDPR/CNIL standards at Bordeaux Population Health |
 | **Applied ML for Trading** | ⭐⭐⭐⭐ | Built ML-driven, agent-supervised trading strategies with systematic backtesting and auto-improvement loops, deployed live on VPS |
 | **BI & Analytics** | ⭐⭐⭐⭐ | Designed award-winning Power BI dashboards for chemical stock management at Safran |
@@ -97,7 +97,7 @@ My engineering mindset is grounded in **product ownership**: at ArianeGroup I do
 ## 🟣 Featured Projects
 
 <details>
-<summary><b>🥂 Drinki — B2B2C Nightlife Discovery Platform</b></summary>
+<summary><b>🥂 Drinki: B2B2C Nightlife Discovery Platform</b></summary>
 <br/>
 
 Mobile-first platform connecting users to real-time discounts in bars and clubs, with two companion web frontends for partner and admin management. Co-founded and led as the sole architect and lead developer, scaling to 3,000+ users.
@@ -109,7 +109,7 @@ Mobile-first platform connecting users to real-time discounts in bars and clubs,
 | **Performance** | Geolocation-based discovery, real-time analytics feedback loop |
 | **Security** | Stripe-secured payment flows, Firebase auth |
 | **Impact** | Led a 3-developer team; owned product scaling and strategic roadmap |
-| **Repository** | *Private — B2B2C production app* |
+| **Repository** | *Private (B2B2C production app)* |
 
 Architected end-to-end: mobile client, two web frontends, and a Node.js/MongoDB microservices backend on GCP, integrating Stripe for payments and Mapbox for geolocation.
 
@@ -128,12 +128,12 @@ Final-year engineering project at ArianeGroup: a conversational AI agent using L
 | **Performance** | Automated multi-tool provisioning workflows previously done manually |
 | **Security** | Intelligent request validation layer, DevSecOps-hardened deployment |
 | **Impact** | Reduced manual operational overhead across enterprise tool provisioning |
-| **Repository** | *Private — internal enterprise tooling* |
+| **Repository** | *Private (internal enterprise tooling)* |
 
 </details>
 
 <details>
-<summary><b>🩺 Medical Data Integration Pipeline — Bordeaux Population Health</b></summary>
+<summary><b>🩺 Medical Data Integration Pipeline: Bordeaux Population Health</b></summary>
 <br/>
 
 Stateless data integration pipeline for a health research institute, automating cleaning and structure extraction from unstructured medical CSV data under strict GDPR/CNIL compliance.
@@ -145,7 +145,7 @@ Stateless data integration pipeline for a health research institute, automating 
 | **Performance** | Automated cleaning + structured extraction from raw medical CSVs |
 | **Security** | Full GDPR/CNIL compliance for sensitive health data |
 | **Impact** | Enabled reliable downstream data science workflows on medical records |
-| **Repository** | *Private — research institute data* |
+| **Repository** | *Private (research institute data)* |
 
 </details>
 
@@ -158,16 +158,16 @@ Personal systematic trading infrastructure: ML-driven, agent-supervised strategi
 | | |
 |---|---|
 | **Stack** | Python · ML models · Agent-supervised strategy design · VPS deployment |
-| **Scale** | Live trading — FOREX, indices, stocks, crypto |
+| **Scale** | Live trading: FOREX, indices, stocks, crypto |
 | **Performance** | Systematic backtesting + automated strategy-improvement loops |
 | **Security** | VPS-isolated execution environment |
 | **Impact** | Live-deployed, self-improving systematic trading system |
-| **Repository** | *Private — personal project* |
+| **Repository** | *Private (personal project)* |
 
 </details>
 
 <details>
-<summary><b>🎯 Cybersecurity Awareness Program — Safran Electronics & Defense</b></summary>
+<summary><b>🎯 Cybersecurity Awareness Program: Safran Electronics & Defense</b></summary>
 <br/>
 
 Designed and led company-wide phishing campaigns and cybersecurity table-top exercises, simulating real social-engineering attack vectors to train staff across departments.
@@ -179,7 +179,7 @@ Designed and led company-wide phishing campaigns and cybersecurity table-top exe
 | **Performance** | Multiple simulated phishing campaigns + table-top exercises |
 | **Security** | Controlled, ethical social-engineering simulations for training purposes |
 | **Impact** | Measurable increase in staff phishing-awareness posture |
-| **Repository** | *Private — internal security program* |
+| **Repository** | *Private (internal security program)* |
 
 </details>
 
@@ -240,7 +240,7 @@ Led cybersecurity awareness initiatives and BI tooling for an APAC defense-servi
 <tr>
 <td width="100%">
 
-#### 🧬 AI Research Intern — Data Management Automation
+#### 🧬 AI Research Intern: Data Management Automation
 **Bordeaux Population Health (BPH)** · Bordeaux, France&nbsp;&nbsp;|&nbsp;&nbsp;![Date](https://img.shields.io/badge/May_2025_→_Jun._2025-2C0854?style=flat-square)
 
 Designed a stateless data pipeline for automated processing of sensitive medical data under strict regulatory compliance.
@@ -256,7 +256,7 @@ Designed a stateless data pipeline for automated processing of sensitive medical
 <tr>
 <td width="100%">
 
-#### 🔒 Computer Engineer — Linux
+#### 🔒 Computer Engineer: Linux
 **ArianeGroup** · Bordeaux, France&nbsp;&nbsp;|&nbsp;&nbsp;![Date](https://img.shields.io/badge/Apr._2023_→_Jul._2023-2C0854?style=flat-square)
 
 - Audited Linux systems to identify and mitigate vulnerabilities and security gaps
@@ -276,10 +276,10 @@ Designed a stateless data pipeline for automated processing of sensitive medical
 
 | Recognition | Details |
 |---|---|
-| 🏆 Internal Innovation Award | Power BI chemical-stock dashboards — Safran Electronics & Defense Services Asia |
-| 🥉 AI4Industry Hackathon — 3rd / 26 | Computer vision pipeline built with TensorFlow & PyTorch |
-| 🌐 TOEIC 935/990 | English proficiency — C1 level |
-| 🚀 3,000+ Users | Drinki mobile app — co-founded, architected, and led development |
+| 🏆 Internal Innovation Award | Power BI chemical-stock dashboards, Safran Electronics & Defense Services Asia |
+| 🥉 AI4Industry Hackathon (3rd / 26) | Computer vision pipeline built with TensorFlow & PyTorch |
+| 🌐 TOEIC 935/990 | English proficiency, C1 level |
+| 🚀 3,000+ Users | Drinki mobile app, co-founded, architected, and led development |
 
 </div>
 
@@ -300,7 +300,7 @@ Designed a stateless data pipeline for automated processing of sensitive medical
 
 <a href="https://www.linkedin.com/learning/certificates/36336ab347893da1e21b432f4270533eda6e6bc2359458362132e9c0b7b34c65/"><img src="https://img.shields.io/badge/LinkedIn_Learning-Generative_AI_for_L%26D_Professional_Certificate-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2C0854"/></a>
 
-`Generative AI for Learning and Development` · `Organizational Leadership` — Issued June 2026
+`Generative AI for Learning and Development` · `Organizational Leadership`, Issued June 2026
 
 <br/>
 
@@ -310,7 +310,7 @@ Designed a stateless data pipeline for automated processing of sensitive medical
 <a href="https://verify.skilljar.com/c/wh77n3wrafnn"><img src="https://img.shields.io/badge/Anthropic-Introduction_to_MCP-191919?style=flat-square&labelColor=2C0854"/></a>
 <a href="https://www.credly.com/badges/a6f17282-9524-4149-b3fe-c0ca52eaa422"><img src="https://img.shields.io/badge/Google-Create_Your_First_Gemini_Enterprise_App-4285F4?style=flat-square&labelColor=2C0854"/></a>
 
-`MCP Protocol` · `Multi-Agent Systems` — Anthropic, June 2026 & April 2026 · Google, June 2026
+`MCP Protocol` · `Multi-Agent Systems`, Anthropic, June 2026 & April 2026 · Google, June 2026
 
 <br/>
 
@@ -328,7 +328,7 @@ Issued April – June 2025 · The Linux Foundation
 
 `Workforce Skill-Building with AI` · `How to Use AI for Upskilling and Lifelong Learning` · `AI-Powered Career Development` · `The Future of Workforce Learning` · `A Practical Guide to Upskilling Your Organization on AI`
 
-— Issued June 2026
+Issued June 2026
 
 <br/>
 
@@ -338,7 +338,7 @@ Issued April – June 2025 · The Linux Foundation
 
 <br/>
 
-> 📌 *Several additional certifications in progress — this section updates as they land.*
+> 📌 *Several additional certifications in progress, this section updates as they land.*
 
 ---
 
@@ -382,7 +382,7 @@ Issued April – June 2025 · The Linux Foundation
 | 📚 **Learning** | Japanese · Advanced LLM agent orchestration patterns · Rust fundamentals |
 | 🛠️ **Building** | Drinki (scaling B2B2C mobile platform) · Systematic algorithmic trading bot suite · Enterprise LLM provisioning agent enhancements |
 | 🔍 **Exploring** | APAC fintech & quant engineering roles · DevSecOps at scale in regulated environments |
-| 🌏 **Open to** | VIE positions (Singapore, Hong Kong, Japan, Australia, SE Asia) · Direct hire roles in Bangkok, Thailand · Technical, product, and engineering-management tracks |
+| 🌏 **Open to** | International roles across Asia: Singapore, Bangkok, Hong Kong, Tokyo, Sydney (VIE & direct hire) · Technical, product, and engineering-management tracks |
 
 ---
 
