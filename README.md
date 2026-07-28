@@ -104,7 +104,7 @@ Mobile-first platform connecting users to real-time discounts in bars and clubs,
 
 | | |
 |---|---|
-| **Stack** | React Native · React.js · Node.js · MongoDB · GCP · Microservices |
+| **Stack** | React Native · React.js · Node.js · Firebase · GCP · Microservices |
 | **Scale** | 3,000+ active users · multi-frontend architecture |
 | **Performance** | Geolocation-based discovery, real-time analytics feedback loop |
 | **Security** | Stripe-secured payment flows, Firebase auth |
