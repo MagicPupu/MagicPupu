@@ -359,7 +359,7 @@ Issued June 2026
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MagicPupu&theme=react-dark&bg_color=0D0221&color=A78BFA&line=8B5CF6&point=C4B5FD&hide_border=true)
+![Activity Graph](./profile/activity-graph.svg)
 
 </div>
 
