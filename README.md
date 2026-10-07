@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2C0854,50:5B21B6,100:8B5CF6&height=220&section=header&text=Antoine%20Pulon&fontSize=60&fontColor=E9D5FF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20Cloud%20%7C%20AI%20%7C%20Cybersecurity%20Engineer&descAlignY=55&descColor=C4B5FD)
 
 <a href="https://antoinepulon.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Science+Engineer+%40+CESI+Bordeaux;Full+Stack+%2B+Cloud+%2B+AI+%2F+ML;Cybersecurity+%26+DevSecOps+Practitioner;Building+Drinki+%7C+Ex-Safran+Singapore;Open+to+International+Mobility+%28APAC%29" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Science+Engineer+%7C+CESI+Bordeaux+Graduate;Full+Stack+%2B+Cloud+%2B+AI+%2F+ML;Cybersecurity+%26+DevSecOps+Practitioner;Co-Founder+%26+CTO+%40+Jynio+%7C+Co-Founder+%40+Drinki;Relocating+to+Sydney%2C+Australia" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -35,19 +35,18 @@
 
 <div align="center">
 
-`🏢 Current: Services, Solutions & Applications Lifecycle Manager @ ArianeGroup`
-`🚀 Building: Drinki, B2B2C mobile app (React Native, GCP, 3,000+ users)`
-`🌏 Mobility: Open to relocation across Asia (Singapore, Bangkok, and other major hubs)`
+`🏢 Current: Co-Founder & CTO @ Jynio, language learning platform (Ruby on Rails, React, Fly.io)`
+`🚀 Building: Drinki, B2B2C mobile app (React Native, GCP, 5,000+ users)`
+`🌏 Relocating to Sydney, Australia`
 
 </div>
 
 I'm a Computer Science Engineer specializing in **full stack development, cloud infrastructure, applied AI, and cybersecurity**. I operate at the intersection of shipping product and hardening systems: from building a mobile app used by thousands of users to designing LLM-driven agents that automate enterprise workflows in production, to running phishing simulations and Linux security audits.
 
-My engineering mindset is grounded in **product ownership**: at ArianeGroup I don't just maintain infrastructure, I designed and shipped a conversational AI agent using LLM function calling to orchestrate two internal enterprise tools end-to-end. At Drinki, I co-founded and lead a 3-person engineering team shipping a live, revenue-generating mobile product on GCP.
+My engineering mindset is grounded in **product ownership**: at ArianeGroup I didn't just maintain infrastructure, I designed and shipped a conversational AI agent using LLM function calling to orchestrate two internal enterprise tools end-to-end. As Co-Founder & CTO of Jynio, I took over the full technical ownership of a live language learning platform: audit, architecture, roadmap, quality, security and performance. At Drinki, I co-founded and lead a 3-person engineering team shipping a live, revenue-generating mobile product on GCP.
 
 **Open to:**
-- 🌏 International first roles across Asia (VIE: Singapore, Bangkok, Hong Kong, Tokyo, Sydney)
-- 🇸🇬🇹🇭 Direct hire opportunities in major Asian hubs: Singapore, Bangkok, and beyond (fintech/quant, data engineering, full stack)
+- 🇦🇺 Relocating to Sydney, Australia, open to opportunities there (fintech/quant, data engineering, full stack)
 - 🤝 Roles blending software engineering, AI/ML, and cybersecurity
 - 💬 Conversations on distributed systems, LLM agents, and DevSecOps
 
@@ -59,7 +58,7 @@ My engineering mindset is grounded in **product ownership**: at ArianeGroup I do
 
 **Languages**
 
-![Skills](https://skillicons.dev/icons?i=py,ts,js,cpp,cs&theme=dark)
+![Skills](https://skillicons.dev/icons?i=py,ts,js,ruby,cpp,cs&theme=dark)
 
 **Frontend**
 
@@ -67,7 +66,7 @@ My engineering mindset is grounded in **product ownership**: at ArianeGroup I do
 
 **Backend & Databases**
 
-![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis&theme=dark)
+![Skills](https://skillicons.dev/icons?i=nodejs,express,rails,mongodb,postgres,redis&theme=dark)
 
 **Cloud, DevOps & Tooling**
 
@@ -97,21 +96,53 @@ My engineering mindset is grounded in **product ownership**: at ArianeGroup I do
 ## 🟣 Featured Projects
 
 <details>
+<summary><b>🌐 Jynio: Language Learning Platform</b></summary>
+<br/>
+
+Language learning platform serving B2B, B2C and B2B2C audiences, live in production. Joined as Co-Founder & CTO to take over the full technical ownership of the product, which I did not originally create.
+
+| | |
+|---|---|
+| **Stack** | Ruby on Rails · React · Vite · Fly.io · Multi-service architecture |
+| **Role** | Co-Founder & CTO (4 founding partners) |
+| **Scope** | Technical audit, strategy & architecture, scalable and reliable foundation, technical roadmap |
+| **Focus** | Delivery, quality, security, performance |
+
+</details>
+
+<details>
 <summary><b>🥂 Drinki: B2B2C Nightlife Discovery Platform</b></summary>
 <br/>
 
-Mobile-first platform connecting users to real-time discounts in bars and clubs, with two companion web frontends for partner and admin management. Co-founded and led as the sole architect and lead developer, scaling to 3,000+ users.
+Mobile-first platform connecting users to real-time discounts in bars and clubs, with two companion web frontends for partner and admin management. Co-founded and led as the sole architect and lead developer, scaling to 5,000+ users.
 
 | | |
 |---|---|
 | **Stack** | React Native · React.js · Node.js · Firebase · GCP · Microservices |
-| **Scale** | 3,000+ active users · multi-frontend architecture |
+| **Scale** | 5,000+ users · multi-frontend architecture |
 | **Performance** | Geolocation-based discovery, real-time analytics feedback loop |
 | **Security** | Stripe-secured payment flows, Firebase auth |
 | **Impact** | Led a 3-developer team; owned product scaling and strategic roadmap |
-| **Repository** | *Private (B2B2C production app)* |
 
 Architected end-to-end: mobile client, two web frontends, and a Node.js/MongoDB microservices backend on GCP, integrating Stripe for payments and Mapbox for geolocation.
+
+</details>
+
+<details>
+<summary><b>📈 MagicPupu OPR Breakout EA: Systematic Trading Expert Advisor</b></summary>
+<br/>
+
+Personal MetaTrader 5 Expert Advisor trading XAUUSD on M5, implementing the Opening Range Breakout concept: entry on the close of the candle breaking a fixed-window range, filtered by RSI momentum, range size and trading window. Stop at the breakout candle extreme, fixed risk/reward take profit, one trade per day. Part of my systematic trading bot suite, alongside a LightGBM-based XAUUSD bot.
+
+| | |
+|---|---|
+| **Stack** | MQL5 · MetaTrader 5 (Strategy Tester, real ticks) · Python (pandas, scipy) · Windows VPS (one MT5 instance per account) |
+| **Risk management** | Sizing as % of equity or fixed lot, minimum stop-distance guard |
+| **Signal integrity** | State machine against false signals: re-arms only after price re-enters the range |
+| **Execution** | Weekday filters, broker/local time offset handling, optional scale-out module (breakeven + trailing stop) compatible with hedging accounts |
+| **Observability** | On-chart dashboard and structured logs for decision auditing |
+| **Validation** | Multiple time windows and multi-broker quotes; Monte Carlo simulations (bootstrap, permutation) with prop firm rules and equity drawdown analysis |
+| **Status** | Backtested, forward-tested on a prop firm demo, running live on micro lots · Sept. 2026 → Present |
 
 </details>
 
@@ -128,7 +159,6 @@ Final-year engineering project at ArianeGroup: a conversational AI agent using L
 | **Performance** | Automated multi-tool provisioning workflows previously done manually |
 | **Security** | Intelligent request validation layer, DevSecOps-hardened deployment |
 | **Impact** | Reduced manual operational overhead across enterprise tool provisioning |
-| **Repository** | *Private (internal enterprise tooling)* |
 
 </details>
 
@@ -145,7 +175,7 @@ Stateless data integration pipeline for a health research institute, automating 
 | **Performance** | Automated cleaning + structured extraction from raw medical CSVs |
 | **Security** | Full GDPR/CNIL compliance for sensitive health data |
 | **Impact** | Enabled reliable downstream data science workflows on medical records |
-| **Repository** | *Private (research institute data)* |
+| **Repository** | [MagicPupu/IntelligentDataIntegration](https://github.com/MagicPupu/IntelligentDataIntegration) · *Example implementation only, no real data* |
 
 </details>
 
@@ -162,7 +192,6 @@ Personal systematic trading infrastructure: ML-driven, agent-supervised strategi
 | **Performance** | Systematic backtesting + automated strategy-improvement loops |
 | **Security** | VPS-isolated execution environment |
 | **Impact** | Live-deployed, self-improving systematic trading system |
-| **Repository** | *Private (personal project)* |
 
 </details>
 
@@ -179,7 +208,6 @@ Designed and led company-wide phishing campaigns and cybersecurity table-top exe
 | **Performance** | Multiple simulated phishing campaigns + table-top exercises |
 | **Security** | Controlled, ethical social-engineering simulations for training purposes |
 | **Impact** | Measurable increase in staff phishing-awareness posture |
-| **Repository** | *Private (internal security program)* |
 
 </details>
 
@@ -191,13 +219,29 @@ Designed and led company-wide phishing campaigns and cybersecurity table-top exe
 <tr>
 <td width="100%">
 
+#### 🌐 Co-Founder & CTO
+**Jynio** · Remote&nbsp;&nbsp;|&nbsp;&nbsp;![Date](https://img.shields.io/badge/Oct._2026_→_Present-2C0854?style=flat-square)
+
+Official co-founder (4 founding partners) of a live language learning platform serving B2B, B2C and B2B2C. Took over the full technical ownership of an existing product.
+
+- Audited the existing codebase and infrastructure; defined the technical strategy and architecture
+- Build a scalable, reliable foundation across a multi-service architecture
+- Own the technical roadmap, delivery, quality, security and performance
+
+<img src="https://img.shields.io/badge/Ruby_on_Rails-2C0854?style=flat-square&logo=rubyonrails&logoColor=white"/> <img src="https://img.shields.io/badge/React-5B21B6?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Vite-7C3AED?style=flat-square&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/Fly.io-8B5CF6?style=flat-square&logo=flydotio&logoColor=white"/> <img src="https://img.shields.io/badge/Multi--Service_Architecture-A78BFA?style=flat-square"/>
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
 #### 🛠️ Services, Solutions & Applications Lifecycle Manager
-**ArianeGroup** · Bordeaux, France&nbsp;&nbsp;|&nbsp;&nbsp;![Date](https://img.shields.io/badge/Oct._2023_→_Present-2C0854?style=flat-square)
+**ArianeGroup** · Bordeaux, France&nbsp;&nbsp;|&nbsp;&nbsp;![Date](https://img.shields.io/badge/Oct._2023_→_Sept._2026-2C0854?style=flat-square)
 
-Own the lifecycle of internal enterprise applications across Linux and cloud environments, with a strong DevSecOps and generative AI exploration mandate.
+Owned the lifecycle of internal enterprise applications across Linux and cloud environments, with a strong DevSecOps and generative AI exploration mandate.
 
-- Administer Linux systems and orchestrate containerized workloads via Kubernetes and Docker
-- Build and maintain DevSecOps pipelines; lead cybersecurity audits and resilience initiatives
+- Administered Linux systems and orchestrated containerized workloads via Kubernetes and Docker
+- Built and maintained DevSecOps pipelines; led cybersecurity audits and resilience initiatives
 - Designed and shipped a production LLM-agent for natural-language enterprise tool orchestration
 
 <img src="https://img.shields.io/badge/Linux-2C0854?style=flat-square&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-5B21B6?style=flat-square&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-7C3AED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/DevSecOps-8B5CF6?style=flat-square"/> <img src="https://img.shields.io/badge/LLM_Agents-A78BFA?style=flat-square"/> <img src="https://img.shields.io/badge/Security_Audits-C4B5FD?style=flat-square&color=6D28D9"/>
@@ -212,7 +256,7 @@ Own the lifecycle of internal enterprise applications across Linux and cloud env
 
 Co-founded and lead engineering on a B2B2C mobile nightlife-discounts platform, owning architecture, team leadership, and product strategy.
 
-- Built and launched a React Native + GCP mobile app, scaling to **3,000+ users**
+- Built and launched a React Native + GCP mobile app, scaling to **5,000+ users**
 - Managed a 3-developer team; drove product scaling and strategic direction
 - Integrated geolocation, analytics, and user feedback loops into the release cycle
 
@@ -279,7 +323,7 @@ Designed a stateless data pipeline for automated processing of sensitive medical
 | 🏆 Internal Innovation Award | Power BI chemical-stock dashboards, Safran Electronics & Defense Services Asia |
 | 🥉 AI4Industry Hackathon (3rd / 26) | Computer vision pipeline built with TensorFlow & PyTorch |
 | 🌐 TOEIC 935/990 | English proficiency, C1 level |
-| 🚀 3,000+ Users | Drinki mobile app, co-founded, architected, and led development |
+| 🚀 5,000+ Users | Drinki mobile app, co-founded, architected, and led development |
 
 </div>
 
@@ -380,9 +424,9 @@ Issued June 2026
 | | |
 |---|---|
 | 📚 **Learning** | Japanese · Advanced LLM agent orchestration patterns · Rust fundamentals |
-| 🛠️ **Building** | Drinki (scaling B2B2C mobile platform) · Systematic algorithmic trading bot suite · Enterprise LLM provisioning agent enhancements |
-| 🔍 **Exploring** | APAC fintech & quant engineering roles · DevSecOps at scale in regulated environments |
-| 🌏 **Open to** | International roles across Asia: Singapore, Bangkok, Hong Kong, Tokyo, Sydney (VIE & direct hire) · Technical, product, and engineering-management tracks |
+| 🛠️ **Building** | Jynio (language learning platform, technical foundation & roadmap) · Drinki (scaling B2B2C mobile platform) · Systematic algorithmic trading bot suite (MagicPupu OPR Breakout EA · LightGBM XAUUSD bot) |
+| 🔍 **Exploring** | Fintech & quant engineering roles in Sydney · DevSecOps at scale in regulated environments |
+| 🌏 **Relocating** | Sydney, Australia · Open to opportunities there · Technical, product, and engineering-management tracks |
 
 ---
 
